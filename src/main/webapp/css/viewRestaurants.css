@@ -1,0 +1,132 @@
+.navbar-brand > img { height: 25px; }
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+/*.form-bg {*/
+/*    background-color: #FFDAB9;*/
+/*}*/
+
+.btn-color {
+    background-color: salmon;
+    color: white;
+}
+
+.salmon-text-color {
+    color: salmon;
+}
+
+.nav-color {
+    background-color: black;
+    color: white;
+}
+
+.cover-img {
+    width: 400px;
+}
+
+
+
+
+.img-size{
+    /* 	padding: 0;
+        margin: 0; */
+    height: 450px;
+    width: 700px;
+    background-size: cover;
+    overflow: hidden;
+}
+.modal-content {
+    width: 700px;
+    border:none;
+}
+.modal-body {
+    padding: 0;
+}
+.carousel {
+    data: false;
+}
+
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+#schedule li {
+    list-style-type: none;
+}
+
+
+
+.checkbox {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+}
+
+
+
+.checkbox {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+}
+
+li a {
+    color: white;
+}
+
+.navbar .nav > li > a {
+    color:  #fff;
+    padding: 20px 8px 8px 8px;
+}
+
+.navbar .nav > ul {
+    font-size: 16px;
+}
+
+.navbar .nav {
+    height: 62px;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.navbar .nav > li > a:hover {
+    color:  #fb655b;
+}
+
+.card-footer {
+    padding-bottom: 30px;
+}
+
+.btn-salmon-color {
+    background-color: salmon;
+    color: #fff;
+}
+
+.panel {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    outline: none;
+}
+
+.img-thumbnail {
+    margin-bottom: 30px;
+}
+
+.btn-default {
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+
